@@ -13,7 +13,7 @@ int countVowels(String text) {
 }
 
 void main() {
-  String fullName = "Mukiza Nseko Gervais";
+  String fullName = "Mukiza nseko gervais";
   int vowels = countVowels(fullName);
   print("$fullName has $vowels vowels");
 }
